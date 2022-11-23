@@ -1,12 +1,11 @@
-import Hook from '../src/Tugas/Hook';
+import Routing from '../src/Tugas/Routing';
 
 function App() {
   return (
     <div className="App">
-      <Hook />
+      <Routing />
     </div>
   );
 }
 
 export default App;
-//deploy to vercel new
