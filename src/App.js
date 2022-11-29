@@ -1,12 +1,11 @@
-import Routing from '../src/Tugas/Routing';
+import Redux from './Tugas/Redux';
 
 function App() {
   return (
     <div className="App">
-      <Routing />
+      <Redux />
     </div>
   );
 }
 
 export default App;
-// deploy to vercel success
